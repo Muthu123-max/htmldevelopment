@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="centrifugal_compressor">
+    <title>CENTRIFUGAL COMPRESSOR</title>
+    <shortdesc>IT IS USED TO COMPRESS THE AIR</shortdesc>
+    <conbody>
+        <ol id="ol_hvd_q2s_xnb">
+            <li>The centrifugal flow compressor, sometimes called a radial outflow compressor</li>
+            <li>Centrifugal flow compressors consist of an impeller, a diffuser, and a manifold</li>
+            <li>The impeller draws in air and accelerates it outward by centrifugal force.</li>
+            <li>After the air moves through the impeller, it is expelled into a divergent duct
+                called a diffuser. In the diffuser section, the air becomes dispersed; its velocity
+                is decreased, and its pressure is increased</li>
+            <li>The compressor manifold distributes the air in a smooth flow to the combustion
+                section.</li>
+            <li>Advantages of centrifugal flow compressors include simplicity of manufacture,
+                relatively low cost, low weight, low starting power requirements, and good operating
+                efficiency over a wide range of rotational speeds.</li>
+        </ol>
+    </conbody>
+</concept>
